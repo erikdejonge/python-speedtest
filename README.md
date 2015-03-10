@@ -1,4 +1,14 @@
-
+```
+Hardware Overview:
+  Model Name:	MacBook Pro
+  Processor Name:	Intel Core i7
+  Processor Speed:	2,5 GHz
+  Number of Processors:	1
+  Total Number of Cores:	4
+  L2 Cache (per Core):	256 KB
+  L3 Cache:	6 MB
+  Memory:	16 GB
+```
 ##pypy
 1 2 3 4 5 6 7 8 9 10 ()
 
